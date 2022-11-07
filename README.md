@@ -39,11 +39,11 @@
 ---
 ### 📝 Contribute 📝
 <div align="center">
-  <a href="https://github.com/supra1nova/github-readme-stats">
+  <a href="https://github.com/supra1nova/supra1nova#readme">
     <img src="https://github-readme-stats.vercel.app/api?username=supra1nova&show_icons=true&theme=dracula" height="170px></img>
   </a>
-  <a href="https://github.com/supra1nova/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supra1nova&layout=compact" height="170px">
+  <a href="https://github.com/supra1nova/supra1nova#readme">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supra1nova&hide=typescript&layout=compact" height="170px">
   </a>
 </div>
 
