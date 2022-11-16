@@ -43,7 +43,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=supra1nova&show_icons=true&theme=dracula" height="170px></img>
   </a>
   <a href="https://github.com/supra1nova/supra1nova#readme">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supra1nova&exclude_repo=elice_second_project,elice-bucks&layout=compact" height="170px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supra1nova&hide=javascript&exclude_repo=elice_second_project,elice-bucks&layout=compact" height="170px">
   </a>
 </div>
 
