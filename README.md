@@ -36,7 +36,6 @@
 </div>
 <Br>
 
-<!--
 
 ---
 ### 📝 Contribute 📝
@@ -48,7 +47,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supra1nova&hide=css&exclude_repo=elice_second_project,elice-bucks&layout=compact" height="170px">
   </a>
 </div>
--->
 
 
 <!--
